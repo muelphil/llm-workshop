@@ -1,0 +1,222 @@
+{"word2vec":{
+
+"the": [
+{"word":"the", "similarity":1.000},
+{"word":"this", "similarity":0.594},
+{"word":"in", "similarity":0.543},
+{"word":"that", "similarity":0.526},
+{"word":"ofthe", "similarity":0.515},
+{"word":"another", "similarity":0.475},
+{"word":"however", "similarity":0.475},
+{"word":"one", "similarity":0.467},
+{"word":"entire", "similarity":0.462},
+{"word":"its", "similarity":0.461}
+],
+"brown": [
+{"word":"brown", "similarity":1.000},
+{"word":"brownish", "similarity":0.702},
+{"word":"reddish_brown", "similarity":0.694},
+{"word":"reddish", "similarity":0.658},
+{"word":"white", "similarity":0.658},
+{"word":"greenish_brown", "similarity":0.656},
+{"word":"brownish_color", "similarity":0.653},
+{"word":"gray", "similarity":0.647},
+{"word":"brownish_gray", "similarity":0.645},
+{"word":"hillside_cascaded", "similarity":0.641}
+],
+"long": [
+{"word":"long", "similarity":1.000},
+{"word":"short", "similarity":0.577},
+{"word":"Long", "similarity":0.557},
+{"word":"longer", "similarity":0.521},
+{"word":"MSIM_strives", "similarity":0.492},
+{"word":"lengthy", "similarity":0.485},
+{"word":"longest", "similarity":0.465},
+{"word":"shorter", "similarity":0.440},
+{"word":"commercialize_duloxetine_hydrochloride", "similarity":0.439},
+{"word":"Pattern_Trapper_ADVANCED_Short", "similarity":0.439}
+],
+"tailed": [
+{"word":"tailed", "similarity":1.000},
+{"word":"tailing", "similarity":0.534},
+{"word":"chased", "similarity":0.466},
+{"word":"tail", "similarity":0.447},
+{"word":"Somer_vanished_investigators", "similarity":0.440},
+{"word":"Van_Reet_cock", "similarity":0.424},
+{"word":"red_billed_tropicbird", "similarity":0.423},
+{"word":"nosed", "similarity":0.423},
+{"word":"plumaged", "similarity":0.419},
+{"word":"tapered", "similarity":0.417}
+],
+"climbing": [
+{"word":"climbing", "similarity":1.000},
+{"word":"climb", "similarity":0.779},
+{"word":"Climbing", "similarity":0.720},
+{"word":"climbed", "similarity":0.671},
+{"word":"climbs", "similarity":0.662},
+{"word":"jumping", "similarity":0.618},
+{"word":"tumbling", "similarity":0.568},
+{"word":"falling", "similarity":0.568},
+{"word":"rock_climbing", "similarity":0.561},
+{"word":"clambering", "similarity":0.554}
+],
+"animal": [
+{"word":"animal", "similarity":1.000},
+{"word":"animals", "similarity":0.788},
+{"word":"Animal", "similarity":0.728},
+{"word":"animal_welfare", "similarity":0.664},
+{"word":"dog", "similarity":0.644},
+{"word":"pet", "similarity":0.634},
+{"word":"cats", "similarity":0.613},
+{"word":"ani_mal", "similarity":0.608},
+{"word":"Animals", "similarity":0.602},
+{"word":"dogs", "similarity":0.596}
+],
+"likes": [
+{"word":"likes", "similarity":1.000},
+{"word":"loves", "similarity":0.702},
+{"word":"prefers", "similarity":0.650},
+{"word":"hates", "similarity":0.607},
+{"word":"admires", "similarity":0.593},
+{"word":"relishes", "similarity":0.592},
+{"word":"knows", "similarity":0.591},
+{"word":"enjoys", "similarity":0.590},
+{"word":"adores", "similarity":0.565},
+{"word":"dislikes", "similarity":0.544}
+],
+"_to": [
+{"word":"_to", "similarity":1.000},
+{"word":"Archaie_Haiti", "similarity":0.357},
+{"word":"1B_Jeff_Bagwell", "similarity":0.351},
+{"word":"Tyson_Chandler_alley_oop", "similarity":0.350},
+{"word":"PRNewswire_FirstCall_Abitibi_Consolidated", "similarity":0.344},
+{"word":"Actress_Angela_Lansbury", "similarity":0.342},
+{"word":"rightfielder_Magglio_Ordonez", "similarity":0.336},
+{"word":"PRNewswire_MEDai", "similarity":0.332},
+{"word":"Lefthander_Andy_Pettitte", "similarity":0.331},
+{"word":"Garnet_Exelby_Mark_Recchi", "similarity":0.330}
+],
+"eat": [
+{"word":"eat", "similarity":1.000},
+{"word":"eating", "similarity":0.753},
+{"word":"ate", "similarity":0.701},
+{"word":"eaten", "similarity":0.672},
+{"word":"eats", "similarity":0.659},
+{"word":"munch", "similarity":0.642},
+{"word":"eat_healthfully", "similarity":0.632},
+{"word":"eat_fatty_foods", "similarity":0.628},
+{"word":"consume", "similarity":0.618},
+{"word":"Nutritionists_recommend", "similarity":0.618}
+]
+},
+"glove": {
+"the": [
+{"word":"the", "similarity":1.000},
+{"word":"which", "similarity":0.922},
+{"word":"part", "similarity":0.918},
+{"word":"in", "similarity":0.903},
+{"word":"of", "similarity":0.903},
+{"word":"on", "similarity":0.898},
+{"word":"one", "similarity":0.895},
+{"word":".", "similarity":0.892},
+{"word":"as", "similarity":0.890},
+{"word":"this", "similarity":0.883}
+],
+"brown": [
+{"word":"brown", "similarity":1.000},
+{"word":"white", "similarity":0.861},
+{"word":"gray", "similarity":0.857},
+{"word":"green", "similarity":0.840},
+{"word":"smith", "similarity":0.787},
+{"word":"thompson", "similarity":0.771},
+{"word":"clark", "similarity":0.770},
+{"word":"black", "similarity":0.760},
+{"word":"jack", "similarity":0.758},
+{"word":"baker", "similarity":0.757}
+],
+"long": [
+{"word":"long", "similarity":1.000},
+{"word":"short", "similarity":0.887},
+{"word":"once", "similarity":0.855},
+{"word":"still", "similarity":0.849},
+{"word":"over", "similarity":0.848},
+{"word":"but", "similarity":0.847},
+{"word":"even", "similarity":0.845},
+{"word":"longer", "similarity":0.844},
+{"word":"end", "similarity":0.838},
+{"word":"turning", "similarity":0.837}
+],
+"tailed": [
+{"word":"tailed", "similarity":1.000},
+{"word":"striped", "similarity":0.715},
+{"word":"squirrel", "similarity":0.714},
+{"word":"boar", "similarity":0.714},
+{"word":"macaques", "similarity":0.713},
+{"word":"deer", "similarity":0.712},
+{"word":"hyena", "similarity":0.703},
+{"word":"tails", "similarity":0.699},
+{"word":"scaredy", "similarity":0.688},
+{"word":"beaked", "similarity":0.685}
+],
+"climbing": [
+{"word":"climbing", "similarity":1.000},
+{"word":"climb", "similarity":0.847},
+{"word":"climbs", "similarity":0.758},
+{"word":"jumping", "similarity":0.755},
+{"word":"jump", "similarity":0.730},
+{"word":"steep", "similarity":0.705},
+{"word":"climbers", "similarity":0.703},
+{"word":"hiking", "similarity":0.695},
+{"word":"climbed", "similarity":0.691},
+{"word":"peak", "similarity":0.681}
+],
+"animal": [
+{"word":"animal", "similarity":1.000},
+{"word":"animals", "similarity":0.900},
+{"word":"bird", "similarity":0.800},
+{"word":"human", "similarity":0.773},
+{"word":"dogs", "similarity":0.759},
+{"word":"pet", "similarity":0.747},
+{"word":"pig", "similarity":0.736},
+{"word":"feeding", "similarity":0.731},
+{"word":"fish", "similarity":0.729},
+{"word":"insect", "similarity":0.728}
+],
+"likes": [
+{"word":"likes", "similarity":1.000},
+{"word":"liked", "similarity":0.868},
+{"word":"knows", "similarity":0.837},
+{"word":"loves", "similarity":0.823},
+{"word":"really", "similarity":0.823},
+{"word":"like", "similarity":0.816},
+{"word":"thinks", "similarity":0.807},
+{"word":"always", "similarity":0.804},
+{"word":"n't", "similarity":0.802},
+{"word":"think", "similarity":0.802}
+],
+"to": [
+{"word":"to", "similarity":1.000},
+{"word":"take", "similarity":0.935},
+{"word":"would", "similarity":0.928},
+{"word":"instead", "similarity":0.918},
+{"word":"could", "similarity":0.916},
+{"word":".", "similarity":0.910},
+{"word":"for", "similarity":0.897},
+{"word":"should", "similarity":0.896},
+{"word":"while", "similarity":0.896},
+{"word":"will", "similarity":0.896}
+],
+"eat": [
+{"word":"eat", "similarity":1.000},
+{"word":"eating", "similarity":0.871},
+{"word":"ate", "similarity":0.860},
+{"word":"eaten", "similarity":0.846},
+{"word":"eats", "similarity":0.780},
+{"word":"meal", "similarity":0.768},
+{"word":"chicken", "similarity":0.767},
+{"word":"meat", "similarity":0.762},
+{"word":"cooked", "similarity":0.755},
+{"word":"fish", "similarity":0.753}
+]
+}
+}

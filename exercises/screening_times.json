@@ -1,0 +1,22 @@
+{
+  "screenings": [
+    {
+      "cinema_name": "Schauburg Dresden",
+      "date": "05.05.2024",
+      "time": "19:30",
+      "language": "German"
+    },
+    {
+      "cinema_name": "Programmkino Ost",
+      "date": "07.05.2024",
+      "time": "20:15",
+      "language": "English"
+    },
+    {
+      "cinema_name": "UFA Kristallpalast",
+      "date": "10.05.2024",
+      "time": "21:00",
+      "language": "English"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+jupyter
+jupyterlab
+pandas
+itables
+transformers
+python-dotenv
+torch
+openai
+levenshtein

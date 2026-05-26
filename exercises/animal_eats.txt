@@ -1,0 +1,14 @@
+prompt = "Please finish the sentence. Only provide the finished sentence adding the last missing word, nothing else:\nThe brown climbing longtailed animal likes to eat"
+model = Apertus-8B-Instruct-2509
+[TopLogprob(token=' nuts', bytes=[32, 110, 117, 116, 115], logprob=-1.1669998168945312),
+ TopLogprob(token=' leaves', bytes=[32, 108, 101, 97, 118, 101, 115], logprob=-1.2919998168945312),
+ TopLogprob(token=' ban', bytes=[32, 98, 97, 110], logprob=-3.1669998168945312),
+ TopLogprob(token=' fruits', bytes=[32, 102, 114, 117, 105, 116, 115], logprob=-3.2294998168945312),
+ TopLogprob(token=' ber', bytes=[32, 98, 101, 114], logprob=-3.2294998168945312)]
+
+model = Ministral 8b
+[TopLogprob(token='in', bytes=[105, 110], logprob=-1.9562299251556396),
+ TopLogprob(token='ants', bytes=[97, 110, 116, 115], logprob=-1.9562299251556396),
+ TopLogprob(token='fruit', bytes=[102, 114, 117, 105, 116], logprob=-2.0187299251556396),
+ TopLogprob(token='ban', bytes=[98, 97, 110], logprob=-2.0812299251556396),
+ TopLogprob(token='f', bytes=[102], logprob=-2.8937299251556396)]
