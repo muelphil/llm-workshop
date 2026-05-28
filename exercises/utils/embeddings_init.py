@@ -1,4 +1,6 @@
-
+import gensim.downloader
+model = gensim.downloader.load("glove-wiki-gigaword-50") # replace with "word2vec-google-news-300" for Google News Word2Vec (Warning: much bigger size!)
+print("Vocabulary size:", len(model.key_to_index))
 
 categories = {
     "months": [

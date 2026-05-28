@@ -33,7 +33,7 @@ This repository contains hands-on exercises for learning about Large Language Mo
 
 4. **Set up environment variables:**
 
-   Create a `.env` file in the `exercises` directory with your OpenAI API key:
+   Create a `.env` file in the `exercises` directory and provide your OpenAI API endpoint/key:
    ```env
    OPENAI_BASE_URL=...
    OPENAI_API_KEY=...
